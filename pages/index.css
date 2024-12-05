@@ -165,7 +165,7 @@
 }
 
 .reservation__form {
-margin: 80px auto 120px;
+  margin: 80px auto 120px;
 }
 
 .form {
@@ -190,7 +190,7 @@ margin: 80px auto 120px;
   display: block;
   width: 100%;
   padding: 0;
-  margin 8px 0 0;
+  margin: 8px 0 0;
   border-radius: 4px;
   font-size: 20px;
   line-height: 30px;
