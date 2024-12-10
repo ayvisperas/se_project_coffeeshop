@@ -14,3 +14,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+-Add more animated effects like the pulse effect to practice on at least one other page.
+-Having links that will bring us to another page like on the first project so it is more realistic with clicking on the links.
