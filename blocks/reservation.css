@@ -8,6 +8,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 100px 0 120px;
 }
 
 .reservation__title {
@@ -16,10 +17,10 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 100px 0 80px;
+  margin: 0;
   text-align: center;
 }
 
 .reservation__form {
-  margin: 80px auto 120px;
+  margin: 80px auto 0;
 }
